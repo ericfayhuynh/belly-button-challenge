@@ -33,9 +33,6 @@ To use the dashboard, simply select a test subject ID number from the dropdown m
 
 The dashboard has been deployed to GitHub Pages for easy access. You can view the deployed dashboard [here](<link-to-your-deployed-dashboard>).
 
-## Repository
-
-The GitHub repository for this project can be found [here](<link-to-your-github-repo>).
 
 ## Acknowledgements
 
